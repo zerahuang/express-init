@@ -1,0 +1,21 @@
+{
+  "name": "sanpk",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^3.1.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "ejsexcel": "^3.5.5",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "mysql": "^2.17.1",
+    "nodemailer": "^6.3.0",
+    "request": "^2.88.0"
+  }
+}
